@@ -1,4 +1,6 @@
-<h1><img src="aliazad.jpg" alt="" />&nbsp;&nbsp;Ali Azad's Portfolio</h1>
+<h1><img src="aliazad.jpg" alt=""/>
+<br>
+Ali Azad's Portfolio</h1>
 
 <p>List of my publications on Google Scholar:&nbsp; <a href="https://goo.gl/Y2grlj">https://goo.gl/Y2grlj</a></p>
 <p>List of my data science projects on GitHub:&nbsp;<a href="https://github.com/a-azad">https://github.com/a-azad</a></p>
