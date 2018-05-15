@@ -11,3 +11,7 @@
 <p>My project profile at Geogia Tech:&nbsp;<a href="https://gatech-csm.symplicity.com/profiles/aliazad">https://gatech-csm.symplicity.com/profiles/aliazad</a></p>
 
 <p>My profile at the University of Alberta (2006-2012):&nbsp;<a href="https://sites.ualberta.ca/~azad1">https://sites.ualberta.ca/~azad1</a></p>
+
+
+This site was built using [MD GitHub Pages](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
+
