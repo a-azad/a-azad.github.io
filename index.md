@@ -1,51 +1,14 @@
-# Links
+## Profiles & Publications
 
-### Network
+* [GitHub](https://github.com/a-azad)
+* [Linkedin](https://www.linkedin.com/in/aliazad/)
+* [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
+* [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
+* [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
 
-* [GitHub]()
-* [Linkedin]()
+## Key Projects
 
-* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
-* [My project profile at Georgia Tech (2018-present)](https://gatech-csm.symplicity.com/profiles/aliazad)
-* [My profile at the University of Alberts (2006-2012)](https://sites.ualberta.ca/~azad1)
-
-# Major Projects
-### Network
-
+### NLP ....
 * [GitHub]()
 * [Linkedin]()
 * ali.azad -at- giatech.edu
-
-### Academia
-
-* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
-
-### Network
-
-* [GitHub]()
-* [Linkedin]()
-* ali.azad -at- giatech.edu
-
-### Academia
-
-* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
-
-### Network
-
-* [GitHub]()
-* [Linkedin]()
-* ali.azad -at- giatech.edu
-
-### Academia
-
-* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
-
-### Network
-
-* [GitHub]()
-* [Linkedin]()
-* ali.azad -at- giatech.edu
-
-### Academia
-
-* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
