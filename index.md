@@ -8,7 +8,7 @@
 
 # Key Projects
 
-### NLP ....
+## NLP ....
 * [GitHub]()
 * [Linkedin]()
 * ali.azad -at- giatech.edu
