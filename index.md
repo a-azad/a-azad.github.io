@@ -1,6 +1,6 @@
 # Profile & Publication
 
-* [GitHub](https://github.com/a-azad){:target="_blank"}
+* [GitHub](https://github.com/a-azad)
 * [Linkedin](https://www.linkedin.com/in/aliazad/)
 * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
 * [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
