@@ -1,8 +1,4 @@
-# About Me
-
-Ali Azad
-
-![](aliazad.jpg)
+# Links
 
 ### Network
 
