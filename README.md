@@ -1,21 +1,19 @@
-<h1>
-  <img src="aliazad.jpg" alt=""/>
-  <br>
-  Ali Azad's Portfolio
-</h1>
+# Projects & Portfolio #
 
-<p>List of my publications on Google Scholar:&nbsp; <a href="https://goo.gl/Y2grlj">https://goo.gl/Y2grlj</a></p>
+Ali Azad
 
-<p>List of my data science projects on GitHub:&nbsp;<a href="https://github.com/a-azad">https://github.com/a-azad</a></p>
+![](aliazad.jpg)
 
-<p>My project profile at Geogia Tech:&nbsp;<a href="https://gatech-csm.symplicity.com/profiles/aliazad">https://gatech-csm.symplicity.com/profiles/aliazad</a></p>
+### Network
 
-<p>My profile at the University of Alberta (2006-2012):&nbsp;<a href="https://sites.ualberta.ca/~azad1">https://sites.ualberta.ca/~azad1</a></p>
+* [GitHub]()
+* [Linkedin]()
+* ali.azad -at- giatech.edu
 
+### Academia
 
-This site was built using [MD GitHub Pages](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
+* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
+* [My project profile at Georgia Tech (2018-present)](https://gatech-csm.symplicity.com/profiles/aliazad)
+* [My profile at the University of Alberts (2006-2012)](https://sites.ualberta.ca/~azad1)
 
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+### Major Projects
