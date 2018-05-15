@@ -18,12 +18,10 @@
         <br>
         <hr>
         <br>
-
         {% if site.logo %}
-          <img align="left" src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <p align="left">{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 
 <!--
