@@ -4,9 +4,6 @@
 
 * [GitHub]()
 * [Linkedin]()
-* ali.azad -at- giatech.edu
-
-### Academia
 
 * [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
 * [My project profile at Georgia Tech (2018-present)](https://gatech-csm.symplicity.com/profiles/aliazad)
