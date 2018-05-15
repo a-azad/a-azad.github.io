@@ -15,3 +15,7 @@
 
 This site was built using [MD GitHub Pages](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
