@@ -15,11 +15,14 @@
     <div class="wrapper">
       <header>
         <h1 align="right"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
+        <br>
+        <hr>
+        <br>
         {% if site.logo %}
           <img align="right" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        <br>
+        <hr>
         <p align="right">{{ site.description | default: site.github.project_tagline }}</p>
 
 
