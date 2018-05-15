@@ -19,3 +19,33 @@
 ### Academia
 
 * [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
+
+### Network
+
+* [GitHub]()
+* [Linkedin]()
+* ali.azad -at- giatech.edu
+
+### Academia
+
+* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
+
+### Network
+
+* [GitHub]()
+* [Linkedin]()
+* ali.azad -at- giatech.edu
+
+### Academia
+
+* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
+
+### Network
+
+* [GitHub]()
+* [Linkedin]()
+* ali.azad -at- giatech.edu
+
+### Academia
+
+* [List of my publications on Google Scholar](https://goo.gl/Y2grlj)
