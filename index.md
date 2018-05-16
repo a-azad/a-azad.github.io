@@ -42,10 +42,10 @@
 ## Simple Interactive Tool for Kids
   * An interactive web page for kids.
   * Coded in R and RShiny
-  * The tool is live [here](https://delgraph.shinyapps.io/MyTool/).
   * It is useful to:
-    * Visualize the concept of longitude and latitude
-    * Learn the concept of randomization
+    - Visualize the concept of longitude and latitude
+    - Learn the concept of randomization
+  * The tool is live [here](https://delgraph.shinyapps.io/MyTool/).
   <br><br>
   ![](/imgs/map.jpg)
   <br>
