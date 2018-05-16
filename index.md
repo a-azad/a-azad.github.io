@@ -16,6 +16,7 @@
   * Dataset provided by [Swiftkey](http://www.swiftkey.com), a keyboard provider for Android
   * The tool uses the N-grams to suggest the next likely word when typing
   * The project is shared on [GitHub](https://github.com/a-azad/NLP-typing-application) and the tool is live [here](https://delgraph.shinyapps.io/MyApp/).
+  <br><br>
   ![](/imgs/aliazad.jpg)
   <br>
 
@@ -25,7 +26,7 @@
     * Learn the concept of randomization
   * Coded in R and RShiny
   * The tool is live [here](https://delgraph.shinyapps.io/MyTool/).
-  <br>
+  <br><br>
   ![](/imgs/aliazad.jpg)
   <br>
 
