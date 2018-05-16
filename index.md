@@ -13,8 +13,8 @@
 ## NLP Application
   * Capstone project of the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) at John Hopkins
   * Used R, R-libraries (Rweka, tm) and RShiny
-  * Dataset provided by [Swiftkey](http://www.swiftkey.com), a keyboard provider for Android
-  * The tool uses the N-grams to suggest the next likely word when typing
+  * Dataset provided by [Swiftkey](http://www.swiftkey.com), a keyboard developer for Android
+  * The tool uses the N-grams; suggest the next most-likely word when typing
   * The project is shared on [GitHub](https://github.com/a-azad/NLP-typing-application) and the tool is live [here](https://delgraph.shinyapps.io/MyApp/).
   <br><br>
   ![](/imgs/NLP.jpg)
