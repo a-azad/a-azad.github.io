@@ -10,6 +10,8 @@
 
   <hr size="20">
 
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+
 # Key Projects
 
 ## NLP Application
