@@ -32,9 +32,11 @@
   <br>
 
 ## Geospatial Machine Learning ([Geostatistics](https://en.wikipedia.org/wiki/Geostatistics))
-  * An interactive web page for kids to.
-  * Coded in R and RShiny
-  * The tool is live [here](https://delgraph.shinyapps.io/MyTool/).
+  * Application of geospatial modeling in Earth Sciences.
+  * Two independent rock properties modeled using a 3D regression model called Krigging.
+  * Coded in [GSLIB](http://www.gslib.com/), MATLAB and [SGeMS](http://sgems.sourceforge.net/).
+  * The algorithm is frequently used in the energy sector to explore unknown subsurface features.
+  * The code is shared on [GitHub](https://delgraph.shinyapps.io/MyTool/).
   <br><br>
   ![](/imgs/geostat.jpg)
   <br>
