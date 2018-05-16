@@ -13,11 +13,14 @@
   * [GitHub]()
   * [Linkedin]()
   * ali.azad -at- giatech.edu
-  ---
+  <br><br>
   ![](/imgs/aliazad.jpg)
+-------
+<hr>
+  ## NLP Application
 
-<img style="float: left" src="/imgs/aliazad.jpg" hspace="10">
-
-* [GitHub]()
-* [Linkedin]()
-* ali.azad -at- giatech.edu
+    * [GitHub]()
+    * [Linkedin]()
+    * ali.azad -at- giatech.edu
+    <br><br>
+    ![](/imgs/aliazad.jpg)
