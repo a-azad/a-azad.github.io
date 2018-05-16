@@ -17,22 +17,35 @@
   * The tool uses the N-grams to suggest the next likely word when typing
   * The project is shared on [GitHub](https://github.com/a-azad/NLP-typing-application) and the tool is live [here](https://delgraph.shinyapps.io/MyApp/).
   <br><br>
-  ![](/imgs/aliazad.jpg)
+  ![](/imgs/NLP.jpg)
   <br>
 
-## Simple Interactive Tool for Kids
-  * An interactive web page for kids to:
-    * Visualize the concept of longitude and latitude
-    * Learn the concept of randomization
+## Ensemble Based [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation)
+  * Application of [Ensemble Kalman Filter](https://en.wikipedia.org/wiki/Ensemble_Kalman_filter) in system training.
+  * The algorithm was used to predict oil production (time series).
+  * Real-time model improvement using new observation.
+  * Showed significant value in production forecasting.
+  * Data pipeline and automation in Bash; coded in MATLAB.
+  * Codes and more information is shared on [Github](https://github.com/a-azad/Ensemble-Based-Forecasting).
+  <br><br>
+  ![](/imgs/EnKF.jpg)
+  <br>
+
+## Geospatial Machine Learning ([Geostatistics](https://en.wikipedia.org/wiki/Geostatistics))
+  * An interactive web page for kids to.
   * Coded in R and RShiny
   * The tool is live [here](https://delgraph.shinyapps.io/MyTool/).
   <br><br>
-  ![](/imgs/aliazad.jpg)
+  ![](/imgs/geostat.jpg)
   <br>
 
-## NLP Application
-  * [GitHub]()
-  * [Linkedin]()
-  * ali.azad -at- giatech.edu
+## Simple Interactive Tool for Kids
+  * An interactive web page for kids.
+  * Coded in R and RShiny
+  * The tool is live [here](https://delgraph.shinyapps.io/MyTool/).
+  * It is useful to:
+    * Visualize the concept of longitude and latitude
+    * Learn the concept of randomization
+  <br><br>
+  ![](/imgs/map.jpg)
   <br>
-  ![](/imgs/aliazad.jpg)
