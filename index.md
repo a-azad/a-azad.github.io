@@ -26,7 +26,7 @@
   * Real-time model improvement using new observation
   * Showed significant value in production forecasting
   * Data pipeline and automation in Bash; coded in MATLAB
-  * Codes and more information is shared on [Github](https://github.com/a-azad/Ensemble-Based-Forecasting)
+  * Codes and more information shared on [Github](https://github.com/a-azad/Ensemble-Based-Forecasting)
   <br><br>
   ![](/imgs/EnKF.jpg)
   <br>
@@ -36,7 +36,7 @@
   * Two independent rock properties modeled using a 3D regression model called Krigging
   * Coded in [GSLIB](http://www.gslib.com/), MATLAB and [SGeMS](http://sgems.sourceforge.net/)
   * The algorithm is frequently used in the energy sector to explore unknown subsurface features
-  * The code is shared on [GitHub](https://delgraph.shinyapps.io/MyTool/).
+  * The code is shared on [GitHub](https://github.com/a-azad/geospatial.modeling).
   <br><br>
   ![](/imgs/geostat.jpg)
   <br>
@@ -45,8 +45,8 @@
   * An interactive web page for kids
   * Coded in R and RShiny
   * It is useful to:
-    - Visualize the concept of longitude and latitude
-    - Learn the concept of randomization
+    - Visually learn and practice longitude vs. latitude
+    - Understand the concept of randomization
   * The tool is live [here](https://delgraph.shinyapps.io/MyTool/)
   <br><br>
   ![](/imgs/map.jpg)
