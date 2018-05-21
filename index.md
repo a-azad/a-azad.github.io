@@ -9,7 +9,7 @@
 
   <br><br><br>
 
-# Data Science Project
+# Data Science Projects
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 ## NLP Application
