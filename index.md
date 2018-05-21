@@ -5,9 +5,12 @@
   * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
   * [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
+  * __geomexx__: an idea-generation project in Geomechanics (coming soon)
+  * __OG.datasets__: a quest to list public data in OG for data scientists (coming soon)
+
   <br><br><br>
 
-# Key Projects
+# Data Science Project
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 ## NLP Application
@@ -36,7 +39,7 @@
   * Two independent rock properties modeled using a 3D regression model called Krigging
   * Coded in [GSLIB](http://www.gslib.com/), MATLAB and [SGeMS](http://sgems.sourceforge.net/)
   * The algorithm is frequently used in the energy sector to explore unknown subsurface features
-  * The code is shared on [GitHub](https://github.com/a-azad/geospatial.modeling).
+  * The code is shared on [GitHub](https://github.com/a-azad/geospatial.modeling)
   <br><br>
   ![](/imgs/geostat.jpg)
   <br>
