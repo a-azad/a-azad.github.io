@@ -5,8 +5,7 @@
   * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
   * [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
-  * __geomexx__: an idea-generation project in Geomechanics (coming soon)
-  * __OG.datasets__: a quest to list public data in OG for data scientists (coming soon)
+  * __geomexx__: an idea-generation project in Geomechanics and data analytics (coming soon)
 
   <br><br><br>
 
