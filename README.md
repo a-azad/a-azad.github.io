@@ -5,7 +5,8 @@
   * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
   * [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
-  * __geomexx__: an idea-generation project in Geomechanics and data analytics (coming soon)
+  * __OG.datasets__: a collection of public oil and gas (OG) datasets on the web for machine learning (coming soon)
+  * __geomexx__: an analytics-focused project in Geomechanics (coming soon)
 
   <br><br><br>
 
@@ -31,6 +32,18 @@
   * Codes and more information shared on [Github](https://github.com/a-azad/Ensemble-Based-Forecasting)
   <br><br>
   ![](/imgs/EnKF.jpg)
+  <br>
+
+## Seattle Area Housing Market
+  * A personal project to explore housing market in Seattle area
+  * Data modeling all in Python using ML-libraries
+  * ~20k property transaction during 2014-2015 with ~20 features
+  * A classic data exploration and regression exercise
+  * Trade off between prediction accuracy and statistical inference
+  * The [holy] random forest offered better regression; OLS (ordinary least square) more value in learning about the mechanics.
+  * Codes and more information shared on [Github](https://github.com/a-azad/Seattle.housing.market)
+    <br><br>
+  ![](/imgs/map_.png)
   <br>
 
 ## Geospatial Machine Learning ([Geostatistics](https://en.wikipedia.org/wiki/Geostatistics))
