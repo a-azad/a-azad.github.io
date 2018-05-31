@@ -1,12 +1,12 @@
-# Profiles & Publications
+# Activities
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
   * [GitHub](https://github.com/a-azad)
   * [Linkedin](https://www.linkedin.com/in/aliazad/)
   * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
   * [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
-  * __energy.datasets__: collection of public datasets in the energy sector (coming soon)
-  * __geomexx__: an analytics-focused project in Geomechanics (coming soon)
+  * [energy.datasets](https://a-azad.github.io/energy.datasets/): links to public datasets in the energy sector
+  * [geomexx.com](www.geomexx.com): AI-projects in geomechanics
 
   <br><br><br>
 
