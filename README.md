@@ -5,7 +5,7 @@
   * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
   * [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
-  * __OG.datasets__: collection of public oil/gas (OG) datasets for machine learning (coming soon)
+  * __energy.datasets__: collection of public datasets in the energy sector (coming soon)
   * __geomexx__: an analytics-focused project in Geomechanics (coming soon)
 
   <br><br><br>
