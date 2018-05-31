@@ -37,7 +37,7 @@
 ## Seattle Area Housing Market
   * A personal project to explore housing market in Seattle area
   * Data modeling all in Python using ML-libraries
-  * ~20k property transaction during 2014-2015 with ~20 features
+  * ~20k real estate transactions during 2014-2015 with ~20 features
   * A classic data exploration and regression exercise
   * Trade off between prediction accuracy and statistical inference
   * The [holy] random forest offered better regression; OLS (ordinary least square) more value in learning about the mechanics.
