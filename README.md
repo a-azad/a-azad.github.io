@@ -25,12 +25,13 @@
   <br><br>
   ![](/imgs/NLP.jpg)
   <br>
+  
 ## Yelpful: Course Project
   * A complete end to end big data visulization website using [Yelp Data](https://www.yelp.com/dataset)
   * Technology uses: Neo4j graph platform,Java Script, Flask, Python and vizualization libraries
   * Business data analysis and statistical recommendation for new businesses
   <br><br>
-  ![](/imgs/yelpful_200.png)
+  ![](/imgs/yelpful_400.png)
   <br>
   
 ## Ensemble Based [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation)
