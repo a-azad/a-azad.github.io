@@ -7,9 +7,9 @@
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
   * [energy.datasets](https://a-azad.github.io/energy.datasets/): links to public datasets in the energy sector
   
-# Under Development Projects
-  * [pifourth.com](): Xploration in AI and advanced analytics
-  * [geomexx.com](): Geomechanics Excellence / Consulting Project in Oil and Gas
+### Projects Under Development
+  * [](pifourth.com): Xploration in AI and advanced analytics
+  * [](geomexx.com): Geomechanics Excellence / Consulting Project in Oil and Gas
 
   <br><br><br>
 
