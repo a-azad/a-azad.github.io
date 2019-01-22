@@ -8,8 +8,8 @@
   * [energy.datasets](https://a-azad.github.io/energy.datasets/): links to public datasets in the energy sector
   
 ### Projects Under Development
-  * [](pifourth.com): Xploration in AI and advanced analytics
-  * [](geomexx.com): Geomechanics Excellence / Consulting Project in Oil and Gas
+  * [pifourth.com](): Xploration in AI and advanced analytics
+  * [geomexx.com](): Geomechanics Excellence / Consulting Project in Oil and Gas
 
   <br><br><br>
 
