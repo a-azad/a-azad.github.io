@@ -6,7 +6,10 @@
   * [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
   * [energy.datasets](https://a-azad.github.io/energy.datasets/): links to public datasets in the energy sector
-  * [geomexx.com](www.geomexx.com): AI-projects in Geomechanics
+  
+# Under Development Projects
+  * [pifourth.com](): Xploration in AI and advanced analytics
+  * [geomexx.com](): Geomechanics Excellence / Consulting Project in Oil and Gas
 
   <br><br><br>
 
