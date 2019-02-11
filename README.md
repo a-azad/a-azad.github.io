@@ -9,7 +9,7 @@
   
 ### Projects Under Development
   * [pifourth.com](): Xploration in AI and advanced analytics
-  * [geomexx.com](): Geomechanics Excellence / Consulting Project in Oil and Gas
+  * [geomexx.com](): Geomechanics Excellence / Consulting in Oil and Gas
 
   <br><br><br>
 
@@ -26,7 +26,7 @@
   ![](/imgs/NLP.jpg)
   <br>
   
-## Yelpful: Course Project
+## Yelpful: Business Analytics
   * A complete end to end big data visulization website using [Yelp Data](https://www.yelp.com/dataset)
   * Technology used: Neo4j graph platform,Java Script, Flask, Python and vizualization libraries
   * Business data analysis and statistical recommendation for new businesses
