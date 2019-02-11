@@ -3,8 +3,8 @@
   * [GitHub](https://github.com/a-azad)
   * [Linkedin](https://www.linkedin.com/in/aliazad/)
   * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
-  * [My project profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)(2018-present)
-  * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)(2006-2012)
+  * [My profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)
+  * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)
   * [energy.datasets](https://a-azad.github.io/energy.datasets/): links to public datasets in the energy sector
   
 ### Projects Under Development
