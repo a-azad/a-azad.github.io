@@ -1,8 +1,9 @@
 baseURL = "http://a-azad.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-name = "pulp"
-publishDir = "./../"
+theme = "pulp"
+
+# publishDir = "./../"
 
 
 canonifyurls = true
