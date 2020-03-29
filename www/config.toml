@@ -1,12 +1,10 @@
 publishDir = "./../"
 name = "pulp"
 license = "MIT"
-licenselink = "Link to theme's license"
 description = "Theme description"
 homepage = "Website of your theme"
 tags = ["blog", "company"]
 features = ["some", "awesome", "features"]
-min_version = "0.41"
 
 [author]
   name = "Ali Azad"
