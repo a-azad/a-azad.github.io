@@ -12,7 +12,7 @@
 
 ## Projects Under Development
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-  * [pifourth.com](http://wwww.pifourth.com/): Xploration in AI and advanced analytics
+  * [pifourth.com](http://www.pifourth.com/): Xploration in AI and advanced analytics
   * [geomexx.com](http://www.geomexx.com/): Geomechanics Excellence / Consulting in Oil and Gas
 
   <br><br>
