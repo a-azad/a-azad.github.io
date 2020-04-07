@@ -3,10 +3,11 @@
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
   * [GitHub](https://github.com/a-azad)
   * [Linkedin](https://www.linkedin.com/in/aliazad/)
+  * [twitter](https://twitter.com/kodorg)
   * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
   * [My profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)
-  * [twitter](https://twitter.com/kodorg)
+
   
 <br>
 
