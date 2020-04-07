@@ -3,12 +3,12 @@
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
   * [GitHub](https://github.com/a-azad)
   * [Linkedin](https://www.linkedin.com/in/aliazad/)
-  * [twitter](https://twitter.com/kodorg)
+  * [Twitter](https://twitter.com/kodorg)
   * [Google Scholar](https://goo.gl/Y2grlj)
   * [My profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)
 
-<br><br>
+<br>
 
 ## Projects
 
@@ -17,7 +17,7 @@
   * [pifourth.com](http://www.pifourth.com/): Xploration in AI and advanced analytics
   * [geomexx.com](http://www.geomexx.com/): Geomechanics Excellence / Consulting in Oil and Gas
 
-<br><br>
+<br>
 
 ## Publications
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
@@ -36,7 +36,7 @@ Azad, Ali, Chalaturnyk, Rick, and Movaghati, Sahar (2011). “Reservoir Characte
 
 Azad, Ali and Chalaturnyk, Rick (2011). “The Role of Geomechanical Observation in Continuous Updating of Thermal Recovery Simulations using the Ensemble Kalman Filter,” In the proceedings of the Canadian Unconventional Resources Conference, Calgary, Canada, p. 19.
 
-### Unconventional Hydrocarbon Resources: Hydraulic Fracturing
+### [Unconventional Hydrocarbon Resources: Hydraulic Fracturing]()
 
 Stephenson, Ben, Galan, Earl, Williams, Will, MacDonald, Jeff, Azad, Ali, Carduner, Ryan (2018). “Geometry and Failure Mechanisms from Microseismic in the Duvernay Shale to explain changes in Well Performance with Drilling Azimuth,” SPE Hydraulic Fracturing Technology Conference,  SPE-189863-MS, The Woodlands, TX, USA, 23-25 January 2018.
 
@@ -52,7 +52,7 @@ Cox, Barbara, Lehner, Rick, Webster, Paul, Molenaar, Mathieu, Azad, Ali (2014). 
 
 Cox, Barbara, Lehner, Rick, Webster, Paul, Molenaar, Mathieu, Azad, Ali (2013). Microseismic Data Integration: How Connecting the Dots Can Help Solve the Unconventionals Puzzle, Importance of Rock Properties in Unconventional Reservoirs, Gussow Geoscience Conference, October 15-17, 2013, Banff, Alberta, Canada.
 
-### Coupled Reservoir-Geomechanics Simulation in Thermal Recovery
+### [Coupled Reservoir-Geomechanics Simulation in Thermal Recovery]()
 
 Azad, Mohammad and Azad, Ali (2012). “Friction and Dilation Angles of Dense Sands: North American Oil Sand Case Study,” In the proceedings of the Ninth International Congress on Civil Engineering, May 8-10, Isfahan, Iran, p. 8. [in Farsi]
 
@@ -66,7 +66,7 @@ Azad, Ali and Chalaturnyk, Rick J. (2009). “A Mathematical Solution to Conside
 
 Azad, Ali and Chalaturnyk, Rick J. (2009). “Geomechanical Coupling Simulation in SAGD Process; a Linear Geometry Model,” In Proceedings of the 3rd Canada-US Rock Mechanics Symposium & 20th Canadian Rock Mechanics Symposium, Rock Engineering in Difficult Conditions, May 9-14, Toronto, Canada, p. 13.
 
-### Soil-Structure Interaction: Dynamic Analysis of Retaining Structures
+### [Soil-Structure Interaction: Dynamic Analysis of Retaining Structures]()
 
 Yazdani, Mahmoud, Azad, Ali, Farshi, A. and Talatahari, S. (2013). “Extended Mononobe-Okabe Method for Seismic Design of Retaining Walls,” Journal of Applied Mathematics, Vol. 2013, Article ID 136132, p. 10.
 
