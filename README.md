@@ -4,7 +4,7 @@
   * [GitHub](https://github.com/a-azad)
   * [Linkedin](https://www.linkedin.com/in/aliazad/)
   * [twitter](https://twitter.com/kodorg)
-  * [List of publications](https://goo.gl/Y2grlj) (on Google Scholar)
+  * [Google Scholar](https://goo.gl/Y2grlj)
   * [My profile at Georgia Tech ](https://gatech-csm.symplicity.com/profiles/aliazad)
   * [My profile at the University of Alberta ](https://sites.ualberta.ca/~azad1)
 
@@ -22,7 +22,7 @@
 ## Publications
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
-### Analytics, Optimization and Data Assimilation
+### [Analytics, Optimization and Data Assimilation]()
 
 Azad, Ali, Chalaturnyk, Rick, and Movaghati, Sahar (2015). “Real-Time Reservoir Model Updating in Thermal Recovery: Application of Analytical Proxies and Kalman Filtering,” Journal of Petroleum Science and Engineering, Vol 127, pp. 196-211.
 
