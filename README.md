@@ -14,8 +14,8 @@
 
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
   * [energy.datasets](https://a-azad.github.io/energy.datasets/): links to public datasets in the energy sector
-  * [pifourth.com](www.pifourth.com/): Xploration in AI and advanced analytics
-  * [geomexx.com](www.geomexx.com/): Geomechanics Excellence / Consulting in Oil and Gas
+  * [pifourth](https://www.pifourth.com/): Xploration in AI and advanced analytics
+  * [geomexx](https://www.geomexx.com/): Geomechanics Excellence / Consulting in Oil and Gas
 
 <br>
 
