@@ -22,7 +22,9 @@
 ## Publications
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
-### [Analytics, Optimization and Data Assimilation]()
+### [Machine Learning, Optimization and Data Assimilation]()
+
+Azad, Ali (2020). “Handwriting Recognition with inadequate Amount of Data,” MSc thesis, Georgia University of Technology, Atlanta, GA.
 
 Azad, Ali, Chalaturnyk, Rick, and Movaghati, Sahar (2015). “Real-Time Reservoir Model Updating in Thermal Recovery: Application of Analytical Proxies and Kalman Filtering,” Journal of Petroleum Science and Engineering, Vol 127, pp. 196-211.
 
