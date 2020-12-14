@@ -4,7 +4,6 @@
   * [GitHub](https://github.com/a-azad)
   * [Linkedin](https://www.linkedin.com/in/aliazad/)
   * [Google Scholar](https://goo.gl/Y2grlj)
-  * [Twitter](https://twitter.com/kodorg)
   * [My page at Georgia Tech](https://gatech-csm.symplicity.com/profiles/aliazad)
   * [My page at the University of Alberta](https://sites.ualberta.ca/~azad1)
 
