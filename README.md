@@ -8,15 +8,6 @@
 
 <br>
 
-## Under Dev
-
-  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
-  * [energy.datasets](https://a-azad.github.io/energy.datasets/): links to public datasets in the energy sector
-  * [pifourth](/pifourth.com): Xploration in AI and advanced analytics
-  * [geomexx](/geomexx.com): Geomechanics Consulting in Oil and Gas
-
-<br>
-
 ## Publications
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
