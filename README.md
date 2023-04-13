@@ -3,8 +3,8 @@
   <hr style="height:1px;border:none;color:#333;background-color:#333;" />
   * [Linkedin](https://www.linkedin.com/in/aliazad/)
   * [Google Scholar](https://goo.gl/Y2grlj)
-  * MSc in Computational Science: [Georgia Tech, USA](https://gatech-csm.symplicity.com/profiles/aliazad)
-  * PhD in Engineering: [University of Alberta, Canada](https://sites.ualberta.ca/~azad1)
+  * MSc in Computational Science: Georgia Tech, USA
+  * PhD in Engineering: University of Alberta, Canada
 
 <br>
 
